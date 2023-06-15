@@ -1,0 +1,1 @@
+# inventory-table-react-native
